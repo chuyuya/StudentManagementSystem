@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/StudentManagementSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\StudentManagementSystem.dir\\main.cpp.obj -c C:\\Users\\Heaven1\\Desktop\\c-c++\\C++\\CPlusPlusProject\\StudentManagementSystem\\main.cpp",
+  "file": "C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/main.cpp",
+  "output": "CMakeFiles/StudentManagementSystem.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/StudentManagementSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\StudentManagementSystem.dir\\student.cpp.obj -c C:\\Users\\Heaven1\\Desktop\\c-c++\\C++\\CPlusPlusProject\\StudentManagementSystem\\student.cpp",
+  "file": "C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/student.cpp",
+  "output": "CMakeFiles/StudentManagementSystem.dir/student.cpp.obj"
+},
+{
+  "directory": "C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/StudentManagementSystem.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\StudentManagementSystem.dir\\student_manager.cpp.obj -c C:\\Users\\Heaven1\\Desktop\\c-c++\\C++\\CPlusPlusProject\\StudentManagementSystem\\student_manager.cpp",
+  "file": "C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/student_manager.cpp",
+  "output": "CMakeFiles/StudentManagementSystem.dir/student_manager.cpp.obj"
+}
+]

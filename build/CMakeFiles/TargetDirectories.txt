@@ -1,0 +1,3 @@
+C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/build/CMakeFiles/StudentManagementSystem.dir
+C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/build/CMakeFiles/edit_cache.dir
+C:/Users/Heaven1/Desktop/c-c++/C++/CPlusPlusProject/StudentManagementSystem/build/CMakeFiles/rebuild_cache.dir
